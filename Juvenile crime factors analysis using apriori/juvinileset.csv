@@ -1,0 +1,101 @@
+Juvinile_ID,Age,Education,Urban/Rural,Slum/NonSlum,Blood Group,Any Medical Problem?,Medicines,Dropout Reason,No.of Sibilings,fact1,fact2,fact3,fact4,fact5,Identification-mark
+AUS212583,14,Dropout,Rural,Non Slum,B-,No,No,No Support,4,Yes,Yes,No,Yes,Yes,A mole on the right toe
+AUS112126,15,HighScool,Urban,Non Slum,O-,No,No,N.A,1,Yes,Yes,No,No,No,A mole on the near the left eye
+AUS173378,14,Dropout,Urban,Non Slum,A+,No,No,No Support,4,Yes,No,Yes,Yes,Yes,A mole on the right index finger
+AUS142588,14,Dropout,Urban,Non Slum,A-,No,No,No Support,1,Yes,Yes,No,No,No,A mole on the left side of the chin
+AUS200272,13,Dropout,Urban,Non Slum,B+,No,No,No Support,2,Yes,Yes,No,No,Yes,A mole on the left middle finger
+AUS205717,14,MiddleScool,Rural,Non Slum,B+,No,No,N.A,4,Yes,Yes,Yes,No,No,A mole on the left nose
+AUS120816,16,HighScool,Rural,Slum,AB-,No,No,N.A,2,No,No,Yes,Yes,Yes,A mole on the right heel
+AUS203539,15,HighScool,Rural,Slum,B-,No,No,N.A,0,No,No,Yes,Yes,Yes,A mole on the left toe
+AUS203183,12,HighScool,Rural,Slum,B+,No,No,N.A,1,No,Yes,Yes,Yes,No,A mole on the right side upper lip
+AUS182483,12,HighScool,Rural,Non Slum,O+,Epilepsy,keppra-250mg,N.A,3,Yes,Yes,No,No,No,A mole at the bottom of left index fingure
+AUS174820,14,MiddleScool,Rural,Slum,AB-,No,No,N.A,1,Yes,Yes,No,Yes,Yes,A mole on the right shoulder
+AUS136071,14,HighScool,Urban,Slum,AB-,No,No,N.A,2,Yes,Yes,No,Yes,No,A mole on the right side of the chin
+AUS122378,17,MiddleScool,Urban,Slum,B+,No,No,N.A,0,No,No,Yes,Yes,Yes,A mole on the left side of the stomach
+AUS189190,15,MiddleScool,Urban,Slum,O+,No,No,N.A,1,No,No,Yes,Yes,No,A mole on the right side of the stomach
+AUS154897,12,MiddleScool,Urban,Non Slum,O-,No,No,N.A,2,Yes,No,Yes,No,Yes,A mole above right eyebrow
+AUS210580,15,MiddleScool,Rural,Slum,O+,No,No,N.A,0,Yes,Yes,No,No,No,A mole on the near the right eye
+AUS207662,12,Dropout,Rural,Non Slum,O+,mental disorder,Relaxation Therapy,No Support,4,Yes,No,No,No,No,A mole on the right wrist
+AUS200727,15,Dropout,Rural,Non Slum,B-,No,No,No Support,3,Yes,No,Yes,No,No,A mole on the right middle finger
+AUS211363,12,Dropout,Urban,Slum,B+,No,No,No Support,0,Yes,No,Yes,Yes,Yes,A mole on the left hand
+AUS174284,12,Dropout,Rural,Non Slum,AB+,Epilepsy,keppra-500mg,No Support,0,Yes,Yes,Yes,No,No,A mole on the right hand
+AUS124864,17,HighScool,Rural,Non Slum,AB-,No,No,N.A,4,No,Yes,Yes,Yes,No,A mole on the left thumb
+AUS162527,12,MiddleScool,Rural,Non Slum,A+,No,No,N.A,4,Yes,No,Yes,Yes,Yes,A mole on the right ankle
+AUS161426,16,HighScool,Rural,Slum,B-,No,No,N.A,3,Yes,Yes,Yes,Yes,Yes,A mole on the right side of the chest
+AUS162023,17,MiddleScool,Urban,Slum,O+,No,No,N.A,2,No,No,No,No,No,A mole on the left cheeck
+AUS119642,15,HighScool,Urban,Non Slum,A-,No,No,N.A,4,Yes,No,Yes,No,No,A mole on the left knee
+AUS211844,16,Dropout,Rural,Slum,AB-,No,No,No Support,0,No,Yes,No,No,Yes,A mole on the left heel
+AUS197935,13,HighScool,Urban,Slum,B+,No,No,N.A,0,No,No,Yes,Yes,Yes,A mole on the right side lower lip
+AUS192037,17,MiddleScool,Rural,Slum,A-,No,No,N.A,3,Yes,Yes,No,Yes,Yes,A mole on the left ankle
+AUS177578,17,HighScool,Rural,Slum,O+,No,No,N.A,4,Yes,Yes,Yes,Yes,No,A mole on the right thumb
+AUS115864,16,Dropout,Urban,Slum,O+,No,No,No Support,3,Yes,No,Yes,Yes,No,A mole on the left index finger
+AUS126178,17,HighScool,Rural,Non Slum,B-,No,No,N.A,3,Yes,Yes,Yes,Yes,Yes,A mole on the left ear
+AUS122495,17,HighScool,Rural,Slum,AB-,No,No,N.A,1,No,Yes,No,Yes,Yes,A mole on the right side of fore head
+AUS126386,12,MiddleScool,Rural,Slum,B+,No,No,N.A,3,Yes,Yes,Yes,No,Yes,A mole at the bottom of right index fingure
+AUS211429,16,HighScool,Rural,Non Slum,O-,No,No,N.A,1,Yes,No,Yes,Yes,No,A mole on the left side lower lip
+AUS124631,13,MiddleScool,Urban,Non Slum,A+,No,No,N.A,2,Yes,Yes,Yes,Yes,Yes,A mole on the left knuckle
+AUS158068,17,MiddleScool,Rural,Non Slum,B-,No,No,N.A,4,Yes,No,Yes,Yes,No,A mole on the right nose
+AUS121048,14,Dropout,Urban,Slum,O+,No,No,No Support,0,Yes,Yes,No,No,No,A mole on the left side of the chest
+AUS118684,13,MiddleScool,Rural,Non Slum,B-,No,No,N.A,1,No,Yes,Yes,Yes,No,A mole above left eyebrow
+AUS152527,15,HighScool,Rural,Non Slum,B-,No,No,N.A,0,Yes,No,Yes,Yes,Yes,A mole on the right cheeck
+AUS163078,13,Dropout,Urban,Non Slum,A-,Epilepsy,keppra-250mg,No Support,0,No,Yes,No,No,Yes,A mole on the left elbow
+AUS118956,14,HighScool,Rural,Slum,O-,No,No,N.A,4,Yes,Yes,Yes,No,No,A mole on the right ear
+AUS144453,16,HighScool,Rural,Slum,O+,No,No,N.A,4,Yes,No,Yes,Yes,No,A mole on the right knee
+AUS130875,15,Dropout,Urban,Non Slum,AB-,No,No,No Support,3,No,Yes,No,No,No,A mole on the left wrist
+AUS119422,16,Dropout,Rural,Slum,B+,Epilepsy,keppra-500mg,No Support,1,Yes,No,No,No,Yes,A mole at the bottom of right thumb
+AUS211842,16,Dropout,Rural,Non Slum,B+,No,No,No Support,1,No,Yes,No,Yes,Yes,A mole on the left side upper lip
+AUS196530,13,Dropout,Urban,Slum,AB-,No,No,No Support,2,Yes,Yes,No,Yes,Yes,A mole on the left shoulder
+AUS151282,16,Dropout,Urban,Slum,A+,No,No,No Support,3,No,Yes,Yes,No,No,A mole on the right knuckle
+AUS154868,13,HighScool,Rural,Slum,O-,No,No,N.A,2,No,Yes,Yes,No,No,A mole on the left side of fore head
+AUS195951,17,MiddleScool,Urban,Slum,B-,No,No,N.A,2,Yes,No,No,No,No,A mole at the bottom of left thumb
+AUS151305,15,MiddleScool,Rural,Slum,AB+,No,No,N.A,0,No,No,Yes,Yes,Yes,A mole on the right elbow
+AUS173633,14,Dropout,Urban,Non Slum,O+,No,No,No Support,3,Yes,Yes,Yes,No,No,A mole on the right side of the stomach
+AUS146759,12,MiddleScool,Urban,Non Slum,AB+,No,No,N.A,3,Yes,No,No,Yes,No,A mole on the left hand
+AUS135085,15,MiddleScool,Urban,Non Slum,A+,No,No,N.A,4,Yes,No,No,No,Yes,A mole on the right heel
+AUS205269,17,MiddleScool,Rural,Slum,O+,No,No,N.A,2,No,No,No,Yes,Yes,A mole on the right index finger
+AUS134053,16,Dropout,Urban,Slum,B-,No,No,No Support,0,Yes,No,No,Yes,No,A mole on the right toe
+AUS156439,12,Dropout,Rural,Non Slum,B+,No,No,No Support,4,No,No,Yes,Yes,Yes,A mole on the right nose
+AUS113248,15,HighScool,Urban,Non Slum,B+,No,No,N.A,4,Yes,Yes,Yes,Yes,No,A mole on the right knee
+AUS168507,12,MiddleScool,Rural,Slum,A-,No,No,N.A,4,Yes,No,No,Yes,Yes,A mole on the left wrist
+AUS188137,14,Dropout,Rural,Slum,AB+,No,No,No Support,2,Yes,Yes,Yes,No,No,A mole on the right hand
+AUS143826,15,Dropout,Urban,Slum,B+,No,No,No Support,3,No,Yes,Yes,Yes,Yes,A mole on the right thumb
+AUS178906,17,MiddleScool,Rural,Slum,B-,Epilepsy,keppra-250mg,N.A,4,No,Yes,No,No,No,A mole on the near the right eye
+AUS179783,16,MiddleScool,Urban,Non Slum,B+,No,No,N.A,0,No,No,Yes,No,No,A mole on the right knuckle
+AUS197337,13,Dropout,Urban,Slum,AB-,No,No,No Support,2,No,Yes,Yes,Yes,Yes,A mole on the left knee
+AUS191525,14,MiddleScool,Urban,Non Slum,AB+,No,No,N.A,1,Yes,Yes,Yes,No,Yes,A mole on the left side of the chin
+AUS178974,17,HighScool,Urban,Slum,B-,No,No,N.A,3,Yes,No,Yes,No,Yes,A mole on the left toe
+AUS214029,13,Dropout,Urban,Non Slum,B+,No,No,No Support,0,Yes,No,Yes,No,No,A mole on the left index finger
+AUS118561,15,MiddleScool,Rural,Slum,A+,No,No,N.A,3,No,No,No,No,No,A mole on the left middle finger
+AUS208762,13,MiddleScool,Urban,Slum,A-,Epilepsy,keppra-250mg,N.A,4,Yes,Yes,Yes,Yes,Yes,A mole on the left heel
+AUS114260,16,Dropout,Rural,Slum,A-,No,No,No Support,3,Yes,Yes,Yes,Yes,No,A mole on the left ear
+AUS206368,15,MiddleScool,Urban,Slum,B+,No,No,N.A,1,Yes,Yes,Yes,Yes,No,A mole on the left side of the chest
+AUS131575,12,Dropout,Urban,Non Slum,A-,Epilepsy,keppra-250mg,No Support,3,Yes,No,No,No,No,A mole on the right side upper lip
+AUS204628,17,HighScool,Urban,Non Slum,AB-,No,No,N.A,4,Yes,No,Yes,Yes,Yes,A mole on the right cheeck
+AUS197678,15,MiddleScool,Rural,Non Slum,O+,No,No,N.A,3,No,No,Yes,No,No,A mole on the left nose
+AUS187455,15,HighScool,Urban,Slum,AB+,No,No,N.A,3,No,No,No,Yes,No,A mole on the right side of the chin
+AUS151315,15,MiddleScool,Urban,Slum,AB+,No,No,N.A,3,Yes,Yes,Yes,No,Yes,A mole on the left side lower lip
+AUS146278,15,Dropout,Urban,Non Slum,A+,mental disorder,Relaxation Therapy,No Support,4,Yes,Yes,No,No,Yes,A mole on the left side upper lip
+AUS172744,17,Dropout,Urban,Slum,AB-,No,No,No Support,4,Yes,Yes,Yes,Yes,Yes,A mole on the left cheeck
+AUS189552,17,MiddleScool,Urban,Non Slum,O-,No,No,N.A,2,Yes,No,Yes,Yes,No,A mole at the bottom of right index fingure
+AUS177926,14,Dropout,Rural,Slum,A-,No,No,No Support,3,Yes,Yes,No,Yes,No,A mole on the left shoulder
+AUS143425,17,HighScool,Rural,Non Slum,A+,No,No,N.A,4,Yes,No,No,No,Yes,A mole above left eyebrow
+AUS125675,12,HighScool,Rural,Non Slum,A-,No,No,N.A,1,Yes,Yes,Yes,Yes,Yes,A mole on the right ankle
+AUS211461,17,HighScool,Urban,Slum,A-,No,No,N.A,3,Yes,Yes,Yes,Yes,No,A mole above right eyebrow
+AUS141715,14,MiddleScool,Rural,Slum,B-,No,No,N.A,4,Yes,Yes,Yes,No,Yes,A mole at the bottom of left thumb
+AUS118486,14,Dropout,Urban,Slum,A-,No,No,No Support,4,Yes,No,Yes,Yes,Yes,A mole on the right middle finger
+AUS179268,16,MiddleScool,Urban,Non Slum,B-,No,No,N.A,2,Yes,Yes,Yes,Yes,No,A mole on the right wrist
+AUS123031,17,HighScool,Urban,Slum,A-,No,No,N.A,1,Yes,No,Yes,Yes,Yes,A mole on the left side of fore head
+AUS212336,17,MiddleScool,Urban,Non Slum,AB-,No,No,N.A,3,Yes,No,Yes,Yes,No,A mole at the bottom of right thumb
+AUS143083,13,Dropout,Rural,Slum,A-,No,No,No Support,1,Yes,No,Yes,Yes,Yes,A mole on the left thumb
+AUS117011,16,Dropout,Rural,Non Slum,AB-,No,No,No Support,4,Yes,Yes,No,No,Yes,A mole on the left knuckle
+AUS192548,17,MiddleScool,Urban,Non Slum,A-,No,No,N.A,1,Yes,No,Yes,Yes,No,A mole on the right elbow
+AUS134004,14,Dropout,Urban,Slum,AB-,No,No,No Support,2,Yes,No,Yes,Yes,Yes,A mole on the left elbow
+AUS208289,16,Dropout,Urban,Slum,AB-,No,No,No Support,1,Yes,No,Yes,Yes,No,A mole on the near the left eye
+AUS196670,16,HighScool,Rural,Non Slum,AB-,mental disorder,Relaxation Therapy,N.A,4,Yes,Yes,Yes,Yes,Yes,A mole on the right ear
+AUS176558,12,Dropout,Urban,Slum,AB+,Epilepsy,keppra-500mg,No Support,3,Yes,Yes,Yes,Yes,No,A mole on the left side of the stomach
+AUS128236,12,MiddleScool,Urban,Non Slum,AB-,No,No,N.A,1,Yes,No,No,No,Yes,A mole on the right side lower lip
+AUS208194,12,HighScool,Urban,Slum,B+,No,No,N.A,0,Yes,Yes,No,No,Yes,A mole on the right shoulder
+AUS161680,14,HighScool,Rural,Non Slum,B+,No,No,N.A,4,Yes,No,Yes,Yes,No,A mole on the right side of fore head
+AUS119431,16,MiddleScool,Rural,Slum,AB-,No,No,N.A,0,Yes,No,Yes,Yes,No,A mole on the left ankle
+AUS158370,15,HighScool,Urban,Non Slum,O-,No,No,N.A,4,Yes,Yes,No,No,Yes,A mole on the right side of the chest
+AUS121486,14,HighScool,Rural,Slum,A+,No,No,N.A,0,Yes,Yes,Yes,Yes,No,A mole at the bottom of left index fingure

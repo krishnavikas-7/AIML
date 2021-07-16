@@ -1,0 +1,18 @@
+.open crime1
+
+CREATE TABLE criminal
+(
+id VARCHAR(6),
+name VARCHAR(60),
+age VARCHAR(3),
+address1 VARCHAR(60),
+address2 VARCHAR(60),
+adhar VARCHAR(15),
+mobile VARCHAR(15)
+);
+
+CREATE TABLE factors
+(
+fact1 VARCHAR(1),fact2 VARCHAR(3),fact3 VARCHAR(3),fact4 VARCHAR(3),fact5 VARCHAR(3)
+);
+
